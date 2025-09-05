@@ -12,35 +12,45 @@
 ---
 
 ## 🚀 Projects & Contributions
-<div align="center">
 
-  <!-- Contributed Repo -->
-  <a href="https://github.com/Rajath2005/mediq.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=mediq.io&theme=aura_dark" />
-  </a>
-
-  <!-- Your Repos -->
-  <a href="https://github.com/Sanath00007/ayurveda-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanath00007&repo=ayurveda-api&theme=aura_dark" />
-  </a>
-
-  <a href="https://github.com/Sanath00007/to-do-list-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanath00007&repo=to-do-list-&theme=aura_dark" />
-  </a>
-
-  <a href="https://github.com/Sanath00007/MENU">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanath00007&repo=MENU&theme=aura_dark" />
-  </a>
-
-  <a href="https://github.com/Sanath00007/React_test">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanath00007&repo=React_test&theme=aura_dark" />
-  </a>
-
-  <a href="https://github.com/Sanath00007/Englisho">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanath00007&repo=Englisho&theme=aura_dark" />
-  </a>
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Rajath2005/mediq.io">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=mediq.io&theme=aura_dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Sanath00007/ayurveda-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanath00007&repo=ayurveda-api&theme=aura_dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Sanath00007/to-do-list-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanath00007&repo=to-do-list-&theme=aura_dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Sanath00007/MENU">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanath00007&repo=MENU&theme=aura_dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Sanath00007/React_test">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanath00007&repo=React_test&theme=aura_dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Sanath00007/Englisho">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanath00007&repo=Englisho&theme=aura_dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
