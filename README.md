@@ -1,4 +1,18 @@
-##
+<h1 align="center">Hi 👋, I'm Sanath K</h1>
+
+<h3 align="center">
+Computer Science Student • Full Stack Developer • AI Enthusiast
+</h3>
+
+<p align="center">
+Building web applications, AI-powered tools, and solving coding problems every day.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;AI+Enthusiast;Java+%7C+React+%7C+Spring+Boot;Always+Learning+New+Technologies" />
+</p>
+
+## 
 <div data-importer="socials" align="center">
   <a href="mailto:sanathk00007@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
@@ -16,8 +30,11 @@
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
 </div>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sanath00007&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 ###
+
 
 <!-- Pac-Man Graph at Top -->
 <picture>
