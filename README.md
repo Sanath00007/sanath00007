@@ -36,6 +36,7 @@ Building web applications, AI-powered tools, and solving coding problems every d
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Sanath00007&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
+
 ###
 
 
@@ -48,6 +49,17 @@ Building web applications, AI-powered tools, and solving coding problems every d
 
 ---
 
+
+## 💻 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Sanath_K/">
+<img src="https://leetcard.jacoblin.cool/Sanath_K?theme=dark&font=Poppins&ext=heatmap" />
+
+</a>
+
+</div>
 
 ## 🚀 Projects & Contributions
 
