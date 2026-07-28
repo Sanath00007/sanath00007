@@ -61,42 +61,46 @@ Building web applications, AI-powered tools, and solving coding problems every d
 
 </div>
 
+
+
 ## 🚀 Projects & Contributions
 
 <table align="center">
   <tr>
     <td>
       <a href="https://github.com/Rajath2005/mediq.io">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=mediq.io&theme=aura_dark" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=Rajath2005&repo=mediq.io&theme=dracula" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Sanath00007/ayurveda-api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanath00007&repo=ayurveda-api&theme=aura_dark" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=Sanath00007&repo=ayurveda-api&theme=dracula" />
       </a>
     </td>
   </tr>
+
   <tr>
     <td>
       <a href="https://github.com/Sanath00007/to-do-list-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanath00007&repo=to-do-list-&theme=aura_dark" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=Sanath00007&repo=to-do-list-&theme=dracula" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Sanath00007/MENU">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanath00007&repo=MENU&theme=aura_dark" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=Sanath00007&repo=MENU&theme=dracula" />
       </a>
     </td>
   </tr>
+
   <tr>
     <td>
       <a href="https://github.com/Sanath00007/React_test">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanath00007&repo=React_test&theme=aura_dark" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=Sanath00007&repo=React_test&theme=dracula" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Sanath00007/Englisho">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanath00007&repo=Englisho&theme=aura_dark" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=Sanath00007&repo=Englisho&theme=dracula" />
       </a>
     </td>
   </tr>
